@@ -28,7 +28,7 @@ myBMIinteger = int(myBMI)
 
 ## The `len()` function:
 
-the `len()` function only works using `str` ~~and colections such as lists, tuples, dictionaries and arrays, but this is a introduction, so pretend you didn´t read that, please.
+the `len()` function only works using `str` ~~and colections such as lists, tuples, dictionaries and arrays, but this is a introduction, so pretend you didn´t read that, please.~~
 
 ex:
 ```python
