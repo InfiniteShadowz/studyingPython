@@ -19,6 +19,8 @@
 
 ## Convertion: 
 
+It is possible to convert some types to others. In this example `float` is converted to `int`:
+
 ```python
 myBMI = 19.1932332
 myBMIinteger = int(myBMI)
@@ -28,9 +30,9 @@ myBMIinteger = int(myBMI)
 
 ## The `len()` function:
 
-the `len()` function only works using `str` ~~and colections such as lists, tuples, dictionaries and arrays, but this is a introduction, so pretend you didn´t read that, please.~~
+the `len()` function only works using `str` ~~and colections such as lists, tuples, dictionaries and arrays, but this is a introduction... so pretend you didn´t read this, please.~~
 
-ex:
+_ex:_
 ```python
 text = "hello, world!"
 print(len(text))
@@ -38,7 +40,7 @@ print(len(text))
 > OUTPUT: 13
 
 
-_and if another type is assigned...:_
+and if another type is assigned...:
 
 ```python
 myBMI = 19.1932332
@@ -47,7 +49,7 @@ len(myBMI)
 
 > OUTPUT: _*TypeError*: object of type 'float' has no len()_
 
-_...it returns a **`TypeError`**!_
+...it returns a _**`TypeError`**!_
 
 
 
