@@ -10,11 +10,11 @@
 
 ## Maths:
 
-- **`/`** ----> used to divide a number by other, but returning a float number --> ex: 4/2 = 2.0;
+- **`/`** ----> used to divide a number by other, but returning a float number --> _ex:_ `4/2 = 2.0`
 
-- **`//`** ---> used to divide a number by other too, however returning a integer --> ex: 11//3 = 3;
+- **`//`** ---> used to divide a number by other too, however returning a integer --> _ex:_ `11//3 = 3`
 
-- **`%`** ---> the percent symbol is used to return the remainder of the divide operation --> ex: 11%3 = 2;
+- **`%`** ---> the percent symbol is used to return the remainder of the divide operation --> _ex:_ `11%3 = 2`
 
 
 ## Convertion: 
