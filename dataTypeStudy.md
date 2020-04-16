@@ -23,7 +23,7 @@
 
 > myBMIinteger = int(myBMI)
 
-19
+OUTPUT: 19
 
 ## The len() function:
 
@@ -35,7 +35,7 @@ ex:
 
 > len(text)
 
-13
+OUTPUT: 13
 
 
 and if another type is assigned...:
@@ -49,7 +49,9 @@ and if another type is assigned...:
 
 ...it returns a **TypeError**!
 
+
 YET it has a solution. Convert. float to string:
+
 
 >myBMI = 19.1932332
 
@@ -57,6 +59,6 @@ YET it has a solution. Convert. float to string:
 
 >len(myBMIstr) --or len(str(myBMI)) if in prompt
 
-10
+OUTPUT: 10
 
 
