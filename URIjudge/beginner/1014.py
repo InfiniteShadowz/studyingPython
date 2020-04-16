@@ -1,12 +1,12 @@
 #Python3
 
-//input
+#input
 distTotal = int(input())
 combustGasto = float(input())
 
-//processamento
-//consumoMedio = [km/l]
+#processamento
+#consumoMedio = [km/l]
 consumMedio = dist/combust
 
-//Output format
+#Output format
 print('{:.3f} km/l'.format(consum))
