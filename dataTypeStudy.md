@@ -24,9 +24,10 @@
 > myBMIinteger = int(myBMI)
 19
 
-### The len() function:
+## The len() function:
 
 the len() function only works using string(str).
+
 ex:
 
 > text = "hello, world!"
