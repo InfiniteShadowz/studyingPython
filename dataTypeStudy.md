@@ -22,6 +22,7 @@
 > myBMI = 19.1932332
 
 > myBMIinteger = int(myBMI)
+
 19
 
 ## The len() function:
@@ -33,6 +34,7 @@ ex:
 > text = "hello, world!"
 
 > len(text)
+
 13
 
 
@@ -54,6 +56,7 @@ YET it has a solution. Convert. float to string:
 >myBMIstr = str(myBMI)
 
 >len(myBMIstr) --or len(str(myBMI)) if in prompt
+
 10
 
 
