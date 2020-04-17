@@ -20,7 +20,7 @@ print(x, y)
 
 ## Addition Assignment:
 
-- **`+=`** ----> add and assign in the same time.
+- **`+=`** ----> add and assign it in the same time.
 
 _ex:_ 
 
@@ -37,7 +37,7 @@ It is same as `x = x + y`
 
 ## Subtraction Assignment:
 
-- **`-=`** ----> subtract one number by another and assign in the same time.
+- **`-=`** ----> subtract one number by another and assign it in the same time.
 
 _ex:_ 
 
@@ -54,7 +54,7 @@ It is same as `x = x - y`
 
 ## Multiplication Assignment:
 
-- **`*=`** ----> multiply a number to another  and assign in the same time.
+- **`*=`** ----> multiply a number by another and assign it in the same time.
 
 _ex:_ 
 
