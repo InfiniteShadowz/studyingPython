@@ -1,5 +1,7 @@
 # Data Type
 
+Data Types is refered to variables. A variable is assigned to a unique and specific data type, unless you convert it.
+
 ## Types: 
 
 ### Numeric Types:
