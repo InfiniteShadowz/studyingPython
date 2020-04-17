@@ -1,20 +1,14 @@
-# dataTypeStudy
+# Data Type
 
 ## Types: 
-- **integer(`int`)** ex: 2 ; 4 ; 5 ; 1322; 2313131;
 
-- **string(`str`)** ex: "The quick brown fox jumps over the lazy dog” ; "oh" ; "i";
+### Numeric Types:
+- **integer(`int`)** ex: 2 ; 4 ; 5 ; 1322; 2313131;
 
 - **float(`float`)** ex: 1.0 ; 3.141592 ; 1.61803398875 ; 344422.43;
 
-
-## Maths:
-
-- **`/`** ----> used to divide a number by other, but returning a float number --> _ex:_ `4/2 = 2.0`
-
-- **`//`** ---> used to divide a number by other too, however returning a integer --> _ex:_ `11//3 = 3`
-
-- **`%`** ---> the percent symbol is used to return the remainder of the divide operation --> _ex:_ `11%3 = 2`
+### Text Types:
+- **string(`str`)** ex: "The quick brown fox jumps over the lazy dog” ; "oh" ; "i";
 
 
 ## Convertion: 
@@ -27,6 +21,7 @@ myBMIinteger = int(myBMI)
 ```
 
 > OUTPUT: 19
+
 
 ## The `len()` function:
 
@@ -61,5 +56,25 @@ myBMIstr = str(myBMI)
 print(len(myBMIstr)) #or print(len(str(myBMI))) 
 ```
 > OUTPUT: 10
+
+
+## The `type()` function: 
+
+the `type()` function is used to get the data type of any object:
+
+```python
+x = "Hello"
+print(type(x))
+```
+> OUTPUT: <class 'str'>
+
+
+
+
+
+
+
+
+
 
 
