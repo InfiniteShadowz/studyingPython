@@ -12,7 +12,7 @@ The comparision operators are used to compare variables to values or variables t
 | '<=' | 'Less than or equal to' | 'x <= y' |
 
 
-## Uses:
+## Example:
 
 ```python
 x = 5
