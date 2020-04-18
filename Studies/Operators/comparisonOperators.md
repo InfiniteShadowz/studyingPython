@@ -19,9 +19,9 @@ x = 5
 y = 18
 
 if x >= y:
-  print("x é menor ou igual a y")
+  print("x is less or greater than or equal to y")
 else:
-  print("y é menor que x")
+  print("y is less than x")
 ```
 > OUTPUT: _x is less or greater than or equal to y_
 
