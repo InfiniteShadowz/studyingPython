@@ -1,4 +1,4 @@
-# Arithmetic Operators
+# Arithmetic Operators (Py)
 
 Those are the basics operations. It can be used to manipulate values or variables.
 
