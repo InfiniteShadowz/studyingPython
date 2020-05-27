@@ -1,5 +1,6 @@
 # Listas / Arrays / Vetores
 
+```py
 
 Wiped_Out = ["Prey", "Cry Baby", "Wiped Out!", "The Beach", "Daddy Issues", "Greetings From California", "Single", "R.I.P 2 My Youth"]
 
@@ -17,4 +18,4 @@ playlist_FShinoda = ["Void", "Comes Then Goes", "Touch", "Alive", "7", "Honey Sw
 
 classf_mus = [ 10, 10, 9, 10, 8, 9, 8, 9, 9]
 
-               
+```        
