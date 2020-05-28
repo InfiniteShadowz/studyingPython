@@ -2,7 +2,7 @@
 
 ```py
 
-Wiped_Out = ["Prey", "Cry Baby", "Wiped Out!", "The Beach", "Daddy Issues", "Greetings From California", "Single", "R.I.P 2 My Youth"]
+WipedOut = ["Prey", "Cry Baby", "Wiped Out!", "The Beach", "Daddy Issues", "Greetings From California", "Single", "R.I.P 2 My Youth"]
 
 Romance = ["Shameless", "Should`ve Said It", "Liar", "Bad Kind Of Butterflies", "Easy", "Feel It Twice", "Cry For Me", "This Love", "Used To This", "First Man"]
 
